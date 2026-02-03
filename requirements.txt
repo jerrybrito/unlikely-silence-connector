@@ -1,0 +1,2 @@
+# Requires: eternal-recursion
+# (Not available on PyPI)
